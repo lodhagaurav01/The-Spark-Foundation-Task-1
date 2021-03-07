@@ -1,7 +1,9 @@
-# The-Spark-Foundation-Internship-Task-1
-Data Science & Business Analytics Internship <br>
+# THE SPARKS FOUNDATION
 
-Task-1: Prediction using Supervised ML<br>
-This is a simple linear regression task,we will predict the percentage of an student based on the no. of study hours.<br>
+# Data Science And Business Analytics Tasks
 
-Author :Gaurav Lodha
+#### By:- Gaurav Lodha
+
+### TASK 1 -Linear Regresssion Supervised Machine Learnning
+
+**Question:-To Predict the percentage of marks of the students based on the number of hours they studied**
